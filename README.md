@@ -10,7 +10,7 @@
 ## About Me 
 I am a **Computer Engineering Student** with the passion for Front--End Development and Arduino
 - 🌍 Based in Dubai, United Arab Emirates
-- 🎓 Currently studying in University of Dubai
+- 🎓 Currently studying at University of Dubai
 - 📚 Currently learning: HTML, CSS and JS
 
 ## Skills
