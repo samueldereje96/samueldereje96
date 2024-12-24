@@ -1,7 +1,7 @@
 ![Banner](./assets/banner.png)
 <!-- - 👋 Hi, I’m Samuel D. Tadesse
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m currently learning HTML, CSS, JS and Figma
 - 📫 How to reach me: samueldereje1996@gmail.com -->
 
 # Hi there, I am Samuel!
